@@ -18,10 +18,8 @@
 		<title>Real Estate</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
-			============================================= -->
-			<link rel="stylesheet" href="resources/css/linearicons.css">=
+			<!-- CSS ============================================= -->
+			<link rel="stylesheet" href="resources/css/linearicons.css">
 			<link rel="stylesheet" href="resources/css/font-awesome.min.css">
 			<link rel="stylesheet" href="resources/css/nice-select.css">
 		    <link rel="stylesheet" href="resources/css/ion.rangeSlider.css" />
@@ -29,8 +27,8 @@
 			<link rel="stylesheet" href="resources/css/bootstrap.css">
 			<link rel="stylesheet" href="resources/css/main.css">
 		</head>
+		
 		<body>
-
 			<section class="generic-banner relative">
 			<!-- Start Header Area -->
 			<header class="default-header">
@@ -69,32 +67,120 @@
 				</nav>
 			</header>
 		<!-- End Header Area -->
-			<div class="container pt-30">
-				<div class="row height align-items-center justify-content-center">
-					<div class="col-lg-10">
-						<div class="generic-banner-content">
-							<h2 class="text-white text-center">Buy Property</h2>
-							<p class="text-white">It won’t be a bigger problem to find one video game lover in your <br> neighbor. Since the introduction of Virtual Game.</p>
-						</div>							
-					</div>
-				</div>
-			</div>
+			 
 			</section>		
 			<!-- End banner Area -->			
 			<!-- About Generic Start -->
-			<divs class="main-wrapper">
+			<div class="main-wrapper">
+				<!-- Start Generic Area -->
+				<section class="property-area section-gap relative" id="property">
+				<div class="overlay overlay-bg"></div>
 				<div class="container">
-					<div class="row height align-items-center justify-content-center">
-						<div class="col-lg-10">
-							<div class="generic-banner-content">
-								<h2 class="text-white text-center">The Elements Page</h2>
-								<p class="text-white">It won’t be a bigger problem to find one video game lover in your <br> neighbor. Since the introduction of Virtual Game.</p>
-							</div>
+					<div class="row d-flex justify-content-center">
+						<div class="col-md-8 pb-40 header-text">
+							<h1>Available Properties For Buying</h1>
+							<p>
+								Who are in extremely love with eco friendly system.
+							</p>
 						</div>
 					</div>
-				</div>
-				<!-- Start Generic Area -->
-				
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-property">
+								<div class="images">
+									<img class="img-fluid mx-auto d-block" src="resources/img/s1.jpg" alt="">
+									<span>For Sale</span>
+								</div>
+								
+								<div class="desc">
+									<div class="top d-flex justify-content-between">
+										<h4><a href="#">04 Bed Duplex</a></h4>
+										<h4>$3.5M</h4>
+									</div>
+									<div class="middle">
+										<div class="d-flex justify-content-start">
+										<p>Bed: 04</p>
+										<p>Bath: 03</p>
+										<p>Area: 750sqm</p>
+										</div>
+										<div class="d-flex justify-content-start">
+										<p>Pool: <span class="gr">Yes</span></p>
+										<p>Internet: <span class="rd">No</span></p>
+										<p>Cleaning: <span class="rd">No</span></p>
+										</div>
+									</div>
+									<div class="bottom d-flex justify-content-start">
+										<p><span class="lnr lnr-heart"></span> 15 Likes</p>
+										<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
+									</div>	
+								</div>	
+							</div>
+						</div>	
+						<div class="col-lg-4">
+							<div class="single-property">
+								<div class="images">
+									<img class="img-fluid mx-auto d-block" src="resources/img/s2	.jpg" alt="">
+									<span>For Sale</span>
+								</div>
+								
+								<div class="desc">
+									<div class="top d-flex justify-content-between">
+										<h4><a href="#">04 Bed Duplex</a></h4>
+										<h4>$3.5M</h4>
+									</div>
+									<div class="middle">
+										<div class="d-flex justify-content-start">
+										<p>Bed: 04</p>
+										<p>Bath: 03</p>
+										<p>Area: 750sqm</p>
+										</div>
+										<div class="d-flex justify-content-start">
+										<p>Pool: <span class="gr">Yes</span></p>
+										<p>Internet: <span class="rd">No</span></p>
+										<p>Cleaning: <span class="rd">No</span></p>
+										</div>
+									</div>
+									<div class="bottom d-flex justify-content-start">
+										<p><span class="lnr lnr-heart"></span> 15 Likes</p>
+										<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
+									</div>	
+								</div>	
+							</div>
+						</div>	
+						<div class="col-lg-4">
+							<div class="single-property">
+								<div class="images">
+									<img class="img-fluid mx-auto d-block" src="resources/img/s3.jpg" alt="">
+									<span>For Sale</span>
+								</div>
+								
+								<div class="desc">
+									<div class="top d-flex justify-content-between">
+										<h4><a href="#">04 Bed Duplex</a></h4>
+										<h4>$3.5M</h4>
+									</div>
+									<div class="middle">
+										<div class="d-flex justify-content-start">
+										<p>Bed: 04</p>
+										<p>Bath: 03</p>
+										<p>Area: 750sqm</p>
+										</div>
+										<div class="d-flex justify-content-start">
+										<p>Pool: <span class="gr">Yes</span></p>
+										<p>Internet: <span class="rd">No</span></p>
+										<p>Cleaning: <span class="rd">No</span></p>
+										</div>
+									</div>
+									<div class="bottom d-flex justify-content-start">
+										<p><span class="lnr lnr-heart"></span> 15 Likes</p>
+										<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
+									</div>	
+								</div>	
+							</div>
+						</div>																											
+					</div>
+				</div>	
+			</section>
 				<!-- End Generic Start -->		
 	
 				<!-- start footer Area -->		

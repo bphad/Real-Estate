@@ -19,16 +19,17 @@
 		<title>Real Estate</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
-			============================================= -->
-			<link rel="stylesheet" href="resources/css/linearicons.css">=
+			
+			<!-- CSS ============================================= -->
+			
+			<link rel="stylesheet" href="resources/css/linearicons.css">
 			<link rel="stylesheet" href="resources/css/font-awesome.min.css">
 			<link rel="stylesheet" href="resources/css/nice-select.css">
 		    <link rel="stylesheet" href="resources/css/ion.rangeSlider.css" />
 		    <link rel="stylesheet" href="resources/css/ion.rangeSlider.skinFlat.css" />
 			<link rel="stylesheet" href="resources/css/bootstrap.css">
 			<link rel="stylesheet" href="resources/css/main.css">
+			
 		</head>
 		<body>
 
@@ -39,7 +40,7 @@
 						<div class="d-flex justify-content-end align-items-center">
 							<ul class="list">
 								<li><a href="#">+91-9503285719</a></li>
-								<li><a href="${pageContext.request.contextPath}/Sell">Sell / Rent Property</a></li>
+								<li><a href="${pageContext.request.contextPath}/Buy">Sell / Rent Property</a></li>
 								<li><a href="${pageContext.request.contextPath}/Login">login / register</a></li>
 							</ul>
 						</div>

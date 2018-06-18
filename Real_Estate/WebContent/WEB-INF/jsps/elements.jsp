@@ -18,9 +18,7 @@
 		<title>Real Estate</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
-			============================================= -->
+			<!-- CSS ============================================= -->
 			<link rel="stylesheet" href="resources/css/linearicons.css">
 			<link rel="stylesheet" href="resources/css/font-awesome.min.css">
 			<link rel="stylesheet" href="resources/css/nice-select.css">
@@ -260,7 +258,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">01</div>
-									<div class="country"> <img src="img/elements/f1.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="resources/img/elements/f1.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -270,7 +268,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">02</div>
-									<div class="country"> <img src="img/elements/f2.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="resources/img/elements/f2.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -280,7 +278,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">03</div>
-									<div class="country"> <img src="img/elements/f3.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="resources/img/elements/f3.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -290,8 +288,8 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">04</div>
-									<div class="country"> <img src="img/elements/f4.jpg" alt="flag">Canada</div>
-									<div class="visit">645032</div>
+									<div class="country"> <img src="resources/img/elements/f4.jpg" alt="flag">Canada</div>
+									<div class="visit">6145032</div>
 									<div class="percentage">
 										<div class="progress">
 											<div class="progress-bar color-4" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
@@ -300,7 +298,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">05</div>
-									<div class="country"> <img src="img/elements/f5.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="resources/img/elements/f5.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -310,7 +308,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">06</div>
-									<div class="country"> <img src="img/elements/f6.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="resources/img/elements/f6.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -320,7 +318,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">07</div>
-									<div class="country"> <img src="img/elements/f7.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="resources/img/elements/f7.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -330,7 +328,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">08</div>
-									<div class="country"> <img src="img/elements/f8.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="resources/img/elements/f8.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -345,28 +343,28 @@
 						<h3>Image Gallery</h3>
 						<div class="row gallery-item">
 							<div class="col-md-4">
-								<a href="img/elements/g1.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g1.jpg);"></div></a>
+								<a href="resources/img/elements/g1.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g1.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="img/elements/g2.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g2.jpg);"></div></a>
+								<a href="resources/img/elements/g2.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g2.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="img/elements/g3.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g3.jpg);"></div></a>
+								<a href="resources/img/elements/g3.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g3.jpg);"></div></a>
 							</div>
 							<div class="col-md-6">
-								<a href="img/elements/g4.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g4.jpg);"></div></a>
+								<a href="resources/img/elements/g4.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g4.jpg);"></div></a>
 							</div>
 							<div class="col-md-6">
-								<a href="img/elements/g5.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g5.jpg);"></div></a>
+								<a href="resources/img/elements/g5.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g5.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="img/elements/g6.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g6.jpg);"></div></a>
+								<a href="resources/img/elements/g6.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g6.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="img/elements/g7.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g7.jpg);"></div></a>
+								<a href="resources/img/elements/g7.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g7.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="img/elements/g8.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(img/elements/g8.jpg);"></div></a>
+								<a href="resources/img/elements/g8.jpg" class="img-pop-up"><div class="single-gallery-image" style="background: url(resources/img/elements/g8.jpg);"></div></a>
 							</div>
 						</div>
 					</div>
@@ -657,14 +655,14 @@
 							<div class="single-footer-widget mail-chimp">
 								<h6 class="mb-20">Instragram Feed</h6>
 								<ul class="instafeed d-flex flex-wrap">
-									<li><img src="img/i1.jpg" alt=""></li>
-									<li><img src="img/i2.jpg" alt=""></li>
-									<li><img src="img/i3.jpg" alt=""></li>
-									<li><img src="img/i4.jpg" alt=""></li>
-									<li><img src="img/i5.jpg" alt=""></li>
-									<li><img src="img/i6.jpg" alt=""></li>
-									<li><img src="img/i7.jpg" alt=""></li>
-									<li><img src="img/i8.jpg" alt=""></li>
+									<li><img src="resources/img/i1.jpg" alt=""></li>
+									<li><img src="resources/img/i2.jpg" alt=""></li>
+									<li><img src="resources/img/i3.jpg" alt=""></li>
+									<li><img src="resources/img/i4.jpg" alt=""></li>
+									<li><img src="resources/img/i5.jpg" alt=""></li>
+									<li><img src="resources/img/i6.jpg" alt=""></li>
+									<li><img src="resources/img/i7.jpg" alt=""></li>
+									<li><img src="resources/img/i8.jpg" alt=""></li>
 								</ul>
 							</div>
 						</div>

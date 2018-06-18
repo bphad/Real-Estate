@@ -21,7 +21,7 @@
 			<!--
 			CSS
 			============================================= -->
-			<link rel="stylesheet" href="resources/css/linearicons.css">=
+			<link rel="stylesheet" href="resources/css/linearicons.css">
 			<link rel="stylesheet" href="resources/css/font-awesome.min.css">
 			<link rel="stylesheet" href="resources/css/nice-select.css">
 		    <link rel="stylesheet" href="resources/css/ion.rangeSlider.css" />
@@ -40,7 +40,7 @@
 							<ul class="list">
 								<li><a href="#">+91-9503285719</a></li>								
 								<li><a href="${pageContext.request.contextPath}/Buy">Sell / Rent Property</a></li>
-								<li><a href="${pageContext.request.contextPath}/ogin">login / register</a></li>
+								<li><a href="${pageContext.request.contextPath}/Login">login / register</a></li>
 							</ul>
 						</div>
 					</div>					
